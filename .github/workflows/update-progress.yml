@@ -1,0 +1,39 @@
+name: Update Progress Tracker
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Step-*/**"
+      - "scripts/update_progress.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Count solutions and update README
+        run: python scripts/update_progress.py
+
+      - name: Commit README if it changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "README already up to date."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Auto-update progress tracker"
+            git push
+          fi

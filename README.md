@@ -44,7 +44,7 @@ This repository is my public record of working through **Striver's A2Z DSA Sheet
 
 | Step | Topic | Solved | Total | Status |
 |:-:|---|:-:|:-:|:-:|
-| 01 | [Learn the Basics](./Step-01-Basics) | 0 | 31 | 🟡 |
+| 01 | [Learn the Basics](./Step-01-Basics) | 0 | 31 | ⚪ |
 | 02 | [Important Sorting Techniques](./Step-02-Sorting) | 0 | 7 | ⚪ |
 | 03 | [Arrays (Easy → Medium → Hard)](./Step-03-Arrays) | 0 | 40 | ⚪ |
 | 04 | [Binary Search (1D, 2D, Search Space)](./Step-04-Binary-Search) | 0 | 32 | ⚪ |
@@ -64,7 +64,8 @@ This repository is my public record of working through **Striver's A2Z DSA Sheet
 | 18 | [Strings (Hard)](./Step-18-Strings-Hard) | 0 | 9 | ⚪ |
 | | **Total** | **0** | **455** | |
 
-> ⚪ Not Started · 🟡 In Progress · 🟢 Completed
+> ⚪ Not Started · 🟡 In Progress · 🟢 Completed  
+> 🤖 *This table is updated automatically by a GitHub Action on every push.*
 
 ---
 
@@ -86,8 +87,6 @@ This repository is my public record of working through **Striver's A2Z DSA Sheet
 - [ ] Tries
 
 ---
-
-## 📁 Repository Structure
 
 ## 📁 Folder & File Naming Convention
 

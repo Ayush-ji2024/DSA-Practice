@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR-GFG-USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Ayush_JI2024/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://github.com/Ayush-ji2024"><img src="https://img.shields.io/badge/GitHub-Ayush--ji2024-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -36,7 +35,7 @@ This repository is my public record of working through **Striver's A2Z DSA Sheet
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ayush_JI2024?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 ---

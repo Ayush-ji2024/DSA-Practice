@@ -89,7 +89,9 @@ This repository is my public record of working through **Striver's A2Z DSA Sheet
 
 ## 📁 Repository Structure
 
-Folders follow the sheet's steps; files follow the sheet's order within each step.
+## 📁 Folder & File Naming Convention
+
+*Example layout.* Folders follow the sheet's steps; files follow the sheet's order within each step.
 
 ```
 DSA-Practice/
